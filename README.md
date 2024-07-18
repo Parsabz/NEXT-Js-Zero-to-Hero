@@ -6,7 +6,7 @@ Hey fam! 😊 In this repo, I share my journey to becoming a NEXT.JS master, so 
 
 1. At first, I noticed I couldn't learn much when I didn't know JavaScript. So, I found two YouTube courses designed for lazy designers like me who want to reach the good part (NEXT.JS) fast. 😊 I’ve included the links below:
 
-   **JavaScript for Web Designers** (watch this first):
+   **JavaScript for Web Designers** (watch this first)(the first hour covers everything, the rest of the video isn't necessary(ihopeso:))):
    [YouTube Video](https://www.youtube.com/watch?v=ResWVWI333o)
 
    **All The JavaScript You Need To Know For React** (watch this for review if you forget things like me):
