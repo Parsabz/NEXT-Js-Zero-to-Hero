@@ -1,5 +1,5 @@
 // here's would be my notebook for MakingNote/Practicing concepts, you should make one as well if you wanna rock and roll.
-
+// this notebook is following https://www.youtube.com/watch?v=ResWVWI333o tutorial 
 
 //if-else
 
