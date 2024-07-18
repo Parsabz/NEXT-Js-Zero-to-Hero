@@ -51,3 +51,6 @@ const person2 = {...person, name: "Jack"} //picking one object and change a vari
 const names = ["Pedro", "'Jack", "Jessica"]; //you can do this way of editing for arrays as well
 const names2 = [...names, "Joel"]; 
 
+// usefull functions for manipulating arrays : .map() and .filter() and .reduce()
+
+// 3 important concepts (for working with apis) : Async + Await + Fetch > you can check out this video > https://www.youtube.com/watch?v=PgZ9npYJZzU
