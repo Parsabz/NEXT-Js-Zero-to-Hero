@@ -12,7 +12,7 @@ Hey fam! 😊 In this repo, I share my journey to becoming a NEXT.JS master, so 
    **All The JavaScript You Need To Know For React** (then watch this for the next step):
    [YouTube Video](https://www.youtube.com/watch?v=m55PTVUrlnA&t=300s)
 
-   **Asynchronous Javascript Tutorial - Promises and Async Await Explained (learning these concepts would be nice before starting your react journey)
+   **Asynchronous Javascript Tutorial - Promises and Async Await Explained (learning these concepts would be nice before starting your react journey specially if you're planing to work with Api)
    [YouTube Video](https://www.youtube.com/watch?v=PgZ9npYJZzU)
 
 
