@@ -29,3 +29,24 @@ person.car = (}:
 person.car.make = "Honda";
 
 
+//Loops
+
+//For Loop
+var names = ["George", "Margaret", "Sean"];
+for (var x = 1; x <= 10; x++) 1
+console.log(x);
+for (var y = 0; y < names.length; y++) {
+console. log(names[y]);
+}
+
+
+//do-while
+
+
+
+
+
+
+
+
+
