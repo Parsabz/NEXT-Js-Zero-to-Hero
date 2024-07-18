@@ -15,4 +15,18 @@ console. log ("hello world");
 }}
 ></button>;
 
+// ternary operators
+
+let age = 16;
+let name = age >10 && "Pedro"; //shorten if
+let name = age >10 || "Pedro"; //shorten notif
+
+//elseif shorten
+let age = 16;  
+let name = age >10 ? "Pedro" : "Jack";
+const Component = () {
+    return age > 10 ? <div> Pedro </div> : ‹div> Jack </div>;
+};
+
+
 
