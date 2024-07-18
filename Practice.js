@@ -80,6 +80,10 @@ console. 1og(x);
 test():
 test2();
 
+//Selectors 
+var somethinggg= document.getElementById("item-1") //Ids are uniuqe, using getElementById helps you to pick something from your html file
+    somethingggClass= document.getElementByClassName("classname1") //or if you want to select a class instead of Id
+
 
 
 
