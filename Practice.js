@@ -42,6 +42,18 @@ console. log(names[y]);
 
 //do-while
 
+var names = ["George", "Margaret", "Sean"];
+var x = 0;
+do {
+console. log(names[x]) ;
+x++;
+   } while (x < names.length);
+do {
+console. log(x);
+} while (x > 0);
+while (X <5) {
+console. 10g(x++):
+}
 
 
 
