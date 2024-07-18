@@ -9,7 +9,7 @@ Hey fam! 😊 In this repo, I share my journey to becoming a NEXT.JS master, so 
    **JavaScript for Web Designers** (watch this first)(the first hour covers everything, the rest of the video isn't necessary(ihopeso:))):
    [YouTube Video](https://www.youtube.com/watch?v=ResWVWI333o)
 
-   **All The JavaScript You Need To Know For React** (watch this for review if you forget things like me):
+   **All The JavaScript You Need To Know For React** (then watch this for the next step):
    [YouTube Video](https://www.youtube.com/watch?v=m55PTVUrlnA&t=300s)
 
    **Top 12 JavaScript Concepts to Know Before Learning React** (use this article as a cheat sheet along the way):
