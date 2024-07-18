@@ -56,3 +56,4 @@ const names2 = [...names, "Joel"];
 // 3 important concepts (for working with apis) : Async + Await + Fetch > you can check out this video > https://www.youtube.com/watch?v=PgZ9npYJZzU
 
 //testing my git
+///testtest
