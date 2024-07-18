@@ -1,4 +1,4 @@
-//Promise -- npm instal axios
+//Promise -- npm install axios
 
 const axios = require("axios");
 const data = axios.get ("https://cat-fact.herokuapp.com/facts");
