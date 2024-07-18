@@ -81,9 +81,17 @@ test():
 test2();
 
 //Selectors 
-var somethinggg= document.getElementById("item-1") //Ids are uniuqe, using getElementById helps you to pick something from your html file
-    somethingggClass= document.getElementByClassName("classname1") //or if you want to select a class instead of Id
+var somethinggg= document.getElementsById("item-1") //Ids are uniuqe, using getElementById helps you to pick something from your html file
+    somethingggClass= document.getElementsByClassName("classname1") //or if you want to select a class instead of Id
+    somethingggTagName= document.getElementByTagName("p") // or if you want to select based on the tag name for example in this case>paragraph 
+    images = document.querySelectorA11("img"); // css 
 
+//how to manipulate DOM using js
+firstItem.style.color = "red":
+myList[1].style.display = "none";
+for (var i=0; ri<paragraphs.length; i++) {
+paragraphs[il.style.color = "green";
+｝
 
 
 
