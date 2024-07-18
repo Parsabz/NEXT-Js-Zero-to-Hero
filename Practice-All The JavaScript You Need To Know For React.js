@@ -28,5 +28,26 @@ const Component = () {
     return age > 10 ? <div> Pedro </div> : ‹div> Jack </div>;
 };
 
+//Objects > destructing 
 
+const person =
+{
+name: "Pedro",
+age: 20,
+isMarried: false,
+};
+const { name, age, isMarried ｝= person;
+
+
+//Objects > destructing  2
+
+const person = {
+name:"Pedro",
+age:20,
+isMarried: false,
+};
+const person2 = {...person, name: "Jack"} //picking one object and change a variable inside it and making a new object
+
+const names = ["Pedro", "'Jack", "Jessica"]; //you can do this way of editing for arrays as well
+const names2 = [...names, "Joel"]; 
 
