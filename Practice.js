@@ -87,9 +87,13 @@ var somethinggg= document.getElementsById("item-1") //Ids are uniuqe, using getE
     images = document.querySelectorA11("img"); // css 
 
 //how to manipulate DOM using js
+var firstItem = document.getElementById("item-1"),
+    myList = document.getElementsByClassName("mylist"),
+    paragraphs = document.getElementsByTagName("₽"),
+    images = document.querySelectorA11("img");
 firstItem.style.color = "red":
 myList[1].style.display = "none";
-for (var i=0; ri<paragraphs.length; i++) {
+for (var i=0; i<paragraphs.length; i++) {
 paragraphs[il.style.color = "green";
 ｝
 
