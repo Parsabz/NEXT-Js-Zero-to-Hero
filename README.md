@@ -12,10 +12,14 @@ Hey fam! 😊 In this repo, I share my journey to becoming a NEXT.JS master, so 
    **All The JavaScript You Need To Know For React** (then watch this for the next step):
    [YouTube Video](https://www.youtube.com/watch?v=m55PTVUrlnA&t=300s)
 
+   **Asynchronous Javascript Tutorial - Promises and Async Await Explained (learning these concepts would be nice before starting your react journey)
+   [YouTube Video](https://www.youtube.com/watch?v=PgZ9npYJZzU)
+
+
    **Top 12 JavaScript Concepts to Know Before Learning React** (use this article as a cheat sheet along the way):
    [GeeksforGeeks Article](https://www.geeksforgeeks.org/top-javascript-concepts-to-know-before-learning-react/)
 
-2.  Now Let's dive to the good parts ^^ 
+3.  Now Let's dive to the good parts ^^ 
 
 Next.js 14 Full Course 2024 | Build and Deploy a Full Stack App Using the Official React Framework
 [Next.js 14 Full Course 2024](https://www.youtube.com/watch?v=wm5gMKuwSYk&t=1224s)
