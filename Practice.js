@@ -56,7 +56,29 @@ console. 10g(x++):
 }
 
 
+//functions
 
+function add (val1, val2) f return val1+val2;
+｝
+console. log(add(45, 2)) :
+var square = function ( number ) 1
+return number * number;
+console. log(square(2)):
+
+//Variable scope
+
+var x = 3; //Global Scope
+function test2() {
+var y = 5;
+console. log (y):
+}
+function test() {
+var x = 18; //notGlobal Scope
+console. log(x);
+}
+console. 1og(x);
+test():
+test2();
 
 
 
