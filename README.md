@@ -21,7 +21,8 @@ Hey fam! 😊 In this repo, I share my journey to becoming a NEXT.JS master, so 
 
 3-1. at this point I've predicted that I would be ready to dive into the NextJs but It's still confusing to me, so I've found out you need to know React and TypeScript as well before NextJs, So I've decided to take "Learn React Course" by codeacademy:
 [Learn React Free Course](https://www.codecademy.com/search?query=learn%20react)
-
+Here's another source which is awesome if you are a "texty" kind of guy :) :
+[full stack open](https://fullstackopen.com/en/about)
 3.  Now Let's dive to the good parts ^^ 
 
 Next.js 14 Full Course 2024 | Build and Deploy a Full Stack App Using the Official React Framework
