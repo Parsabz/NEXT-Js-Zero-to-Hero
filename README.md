@@ -23,6 +23,9 @@ Hey fam! 😊 In this repo, I share my journey to becoming a NEXT.JS master, so 
 [Learn React Free Course](https://www.codecademy.com/search?query=learn%20react)
 Here's another source which is awesome if you are a "texty" kind of guy :) :
 [full stack open](https://fullstackopen.com/en/about)
+also here's another semi-interactive course for becoming a full-stack dev:
+[Scrimba](https://v2.scrimba.com/t0react)
+
 3.  Now Let's dive to the good parts ^^ 
 
 Next.js 14 Full Course 2024 | Build and Deploy a Full Stack App Using the Official React Framework
