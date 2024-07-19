@@ -19,7 +19,7 @@ Hey fam! 😊 In this repo, I share my journey to becoming a NEXT.JS master, so 
    **Top 12 JavaScript Concepts to Know Before Learning React** (use this article as a cheat sheet along the way):
    [GeeksforGeeks Article](https://www.geeksforgeeks.org/top-javascript-concepts-to-know-before-learning-react/)
 
-3-1. I thought at this point I'm ready to dive into the NextJs but It's still confusing to me, so I've found out you need to know React and TypeScript as well before NextJs, So I've decided to take "Learn React Course" by codeacademy:
+3-1. at this point I've predicted that I would be ready to dive into the NextJs but It's still confusing to me, so I've found out you need to know React and TypeScript as well before NextJs, So I've decided to take "Learn React Course" by codeacademy:
 [Learn React Free Course](https://www.codecademy.com/search?query=learn%20react)
 
 3.  Now Let's dive to the good parts ^^ 
